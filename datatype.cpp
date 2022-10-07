@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    string name = "KS RAO";
+    string name = "Tarun";
     cin >> name;
-    cout << "Hey! My name is " << name << ". I'm 19.\n";
+    cout << "Hey! My name is " << name << ". I'm 20.\n";
     cout << &name;
     return 1;
 }
